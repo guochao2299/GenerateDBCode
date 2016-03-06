@@ -1,0 +1,27 @@
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.exe.config
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.exe
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.pdb
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.Properties.Resources.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.csproj.GenerateResource.Cache
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.exe
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.pdb
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.frmMain.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucDBInfo.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.frmCompareDB.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucShowTables.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucShowDifferentTables.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucDBFromXmlFile.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.exe.config
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.exe
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.pdb
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.exe
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\bin\Debug\GenerateDBCode.pdb
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.csprojResolveAssemblyReference.cache
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucDBFromXmlFile.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucShowDifferentTables.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.frmCompareDB.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.frmMain.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.Properties.Resources.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucDBInfo.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.ucShowTables.resources
+F:\myfile\代码\GenerateDBCode\GenerateDBCode\obj\Debug\GenerateDBCode.csproj.GenerateResource.Cache

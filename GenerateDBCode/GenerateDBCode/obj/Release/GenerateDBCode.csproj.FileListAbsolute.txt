@@ -1,0 +1,14 @@
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Release\GenerateDBCode.exe.config
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Release\GenerateDBCode.exe
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\bin\Release\GenerateDBCode.pdb
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.ucDBFromXmlFile.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.ucShowDifferentTables.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.frmCompareDB.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.frmMain.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.Properties.Resources.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.ucDBInfo.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.ucShowTables.resources
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.csproj.GenerateResource.Cache
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.exe
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.pdb
+F:\my programs\C#\GenerateDBCode\GenerateDBCode\obj\Release\GenerateDBCode.csprojResolveAssemblyReference.cache
